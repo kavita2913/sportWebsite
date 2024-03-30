@@ -1,0 +1,19 @@
+.app {
+  padding: 30px;
+}
+
+button {
+  background: white;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+}
+
+.dark-theme {
+  background-color: #292B32;
+
+}
+
+.light-theme {
+  background-color: #F7F7F8;
+}

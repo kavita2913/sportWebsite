@@ -1,0 +1,150 @@
+.upcontent {
+    width: 1241px;
+    height: 673px;
+
+}
+
+.title {
+    color: white;
+    top: 50px;
+    left: 150px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    border-bottom: 3px solid #738FFF; /* Setting border-bottom */
+    width: fit-content; /* Adjusting the width of the element */
+}
+
+.players {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+.sportEvent {
+    background: #292B32;
+    margin: 10px;
+    height: 54px;
+}
+
+.img {
+    width: 237px;
+    height: 511px;
+    background: #3B3E47;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+
+}
+
+span {
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20.57px;
+    text-align: left;
+    color: white;
+}
+
+.img img {
+    padding: 10px;
+}
+
+.events {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+
+ul {
+    list-style: none;
+    Font: Inter;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.52px;
+    color: #DFDFDF;
+
+}
+
+li {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 5px;
+}
+
+.advert {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    color: #FFFFFF;
+}
+
+.advertPara {
+    padding: 10px;
+    font-size: 12.8px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    color: #DFDFDF;
+    margin-left: 20px;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-container button {
+    background: #2C9CF0;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+
+
+}
+
+.light-theme .title {
+    color: #000000;
+}
+
+.light-theme .img {
+    background-color: #fff;
+}
+
+.light-theme span {
+    color: #000000;
+
+}
+
+.light-theme .sportEvent {
+    background-color: #F7F7F8;
+
+}
+
+.light-theme ul {
+    color: #525965;
+}
+
+.light-theme li {
+    color: #000000;
+
+}
+
+.light-theme .advert {
+    color: #000000;
+}
+
+.light-theme .advertPara {
+    color: #525965;
+
+}
