@@ -37,7 +37,7 @@ const UpperContent = ({ theme }) => {
           <div className='sportEvent'>
             <div className='events'>
               <ul>Top Events<li>28 Events</li></ul>
-              <ul>Sport<li>Ice Hockey</li></ul>
+              <ul>Sport<li>Hockey</li></ul>
             </div>
           </div>
         </div>
