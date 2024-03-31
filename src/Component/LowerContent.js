@@ -27,7 +27,7 @@ const LowerContent = (theme) => {
                         <button className='CollectionButton'>Take Flight Collection</button>
                     </div>
                     <div className='groupImages'><img src={unnamed} />
-                        <span className="team">Las Vegas Aviators</span>
+                        <span className="team">Sacramento River Cats</span>
 
                         <div className="schedule">
                             <div className='dateTime'>Oct 15 | Sun | 4:30 PM</div>
