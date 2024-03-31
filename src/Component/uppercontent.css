@@ -5,6 +5,7 @@
 }
 
 .title {
+    font-family: 'Poppins';
     color: white;
     top: 50px;
     left: 150px;
@@ -38,6 +39,7 @@
 }
 
 span {
+    font-family:'Inter';
     padding: 10px;
     font-size: 17px;
     font-weight: 500;
@@ -52,8 +54,7 @@ span {
 
 .events {
     display: flex;
-    justify-content: space-around;
-    padding: 10px;
+   
 }
 
 
@@ -64,6 +65,7 @@ ul {
     font-size: 12px;
     line-height: 14.52px;
     color: #DFDFDF;
+    font-family:'Inter';
 
 }
 
@@ -86,6 +88,8 @@ li {
     font-weight: 600;
     line-height: 24.2px;
     color: #FFFFFF;
+    font-family:'Inter';
+
 }
 
 .advertPara {
